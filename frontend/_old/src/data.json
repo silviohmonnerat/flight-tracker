@@ -1,0 +1,506 @@
+{
+  "total": 24,
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.4801, -23.43]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "origin_id": "53c9c1aa6f6b11eaaa45820a6601fc00",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.4801, -23.43]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "origin_id": "53c9c1aa6f6b11eaaa45820a6601fc00",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.9587, -19.3057]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "origin_id": "53c9aa8a6f6b11eaaa45820a6601fc01",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-45.13, -24.8764]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "origin_id": "53c9c2686f6b11eaaa45820a6601fc02",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-45.0116, -21.3053]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "origin_id": "53c9c2cc6f6b11eaaa45820a6601fc03",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-48.9119, -25.981]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "origin_id": "53c9c3266f6b11eaaa45820a6601fc04",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.4435, -19.9943]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "origin_id": "53c9c3806f6b11eaaa45820a6601fc05",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.0165, -18.954]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "origin_id": "53c9c3da6f6b11eaaa45820a6601fc06",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.126, -14.7837]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "origin_id": "53c9c4486f6b11eaaa45820a6601fc07",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-45.7531, -22.5991]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "origin_id": "53c9c4a26f6b11eaaa45820a6601fc08",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.8913, -15.8613]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "origin_id": "53c9c4fc6f6b11eaaa45820a6601fc09",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.3733, -22.6277]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "origin_id": "53c9c54c6f6b11eaaa45820a6601fc10",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-45.1936, -23.7497]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "origin_id": "53c9c59c6f6b11eaaa45820a6601fc11",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.5424, 26.2234]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "origin_id": "53c9c5f66f6b11eaaa45820a6601fc12",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.6592, -23.6227]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "origin_id": "53c9c6506f6b11eaaa45820a6601fc13",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.1996, -23.5515]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "origin_id": "53c9c6a06f6b11eaaa45820a6601fc14",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.0308, -15.9632]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "origin_id": "53c9c6fa6f6b11eaaa45820a6601fc15",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-45.6262, -19.7345]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "origin_id": "53c9c74a6f6b11eaaa45820a6601fc15",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-42.204, -21.179]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "origin_id": "53c9c79a6f6b11eaaa45820a6601fc16",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.3172, -24.6585]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "origin_id": "53c9c7f46f6b11eaaa45820a6601fc17",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.7179, -15.7753]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "origin_id": "53c9c8446f6b11eaaa45820a6601fc18",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-47.4914, -23.5017]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "origin_id": "53c9c8b26f6b11eaaa45820a6601fc19",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.0324, 47.705]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "origin_id": "53c9c90c6f6b11eaaa45820a6601fc20",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.1796, 43.5155]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "origin_id": "53c9c95c6f6b11eaaa45820a6601fc21",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-42.8999, -22.4014]
+      },
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "origin_id": "53c9c9b66f6b11eaaa45820a6601fc22",
+        "origin_city": null,
+        "origin_country": "Brazil    ",
+        "origin_lon": null,
+        "origin_lat": null,
+        "destination_id": null,
+        "destination_city": null,
+        "destination_country": null,
+        "destination_lon": null,
+        "destination_lat": null
+      }
+    }
+  ]
+}
